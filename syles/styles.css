@@ -1,0 +1,164 @@
+
+.logo{
+
+float:left;
+
+
+
+}
+
+
+
+question{
+
+
+	
+}
+
+#title{
+	position: absolute;
+/* Internet Explorer 10 */
+display:-ms-flexbox;
+-ms-flex-pack:center;
+-ms-flex-align:center;
+
+/* Firefox */
+display:-moz-box;
+-moz-box-pack:center;
+-moz-box-align:center;
+
+/* Safari, Opera, and Chrome */
+display:-webkit-box;
+-webkit-box-pack:center;
+-webkit-box-align:center;
+
+/* W3C */
+display:box;
+box-pack:center;
+box-align:center;
+
+
+}
+
+.menu{
+
+
+margin-top:0%;
+margin-right:0%;
+margin-left:0%;
+border: 0;
+
+
+}
+header{
+	position: relative;
+background: #ffffff; /* Old browsers */
+background: -moz-linear-gradient(top, #ffffff 0%, #e5e5e5 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffffff), color-stop(100%,#e5e5e5)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, #ffffff 0%,#e5e5e5 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, #ffffff 0%,#e5e5e5 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top, #ffffff 0%,#e5e5e5 100%); /* IE10+ */
+background: linear-gradient(to bottom, #ffffff 0%,#e5e5e5 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#e5e5e5',GradientType=0 ); /* IE6-9 */
+
+width: 100%;
+
+
+border-bottom:solid #000000;
+
+
+}
+
+/*small mobile devices*/
+@media all and (max-width: 699px) {
+
+
+header{
+height: 100px;
+}
+#ml{
+	display:none;
+}
+#ll{
+	display:none;
+}
+
+.menu{
+	margin-top:0%;
+margin-right:0%;
+margin-left:0%;
+top: 0;
+left: 0;
+
+border: 0;
+}
+
+.button{
+width:100%;
+}
+#question{
+
+text-align: center;
+
+}
+
+}
+
+/*medium mobile devices eg tablet*/
+@media all and (min-width: 700px) and (max-width: 1024px){
+
+header{
+height: 100px;
+}
+
+#ml{
+	visibility: visible;
+}
+#ll{
+	display:none;
+}
+
+
+.menu{
+-webkit-border-radius: 10px 10px 10px 10px;
+border-radius: 10px 10px 10px 10px;
+-webkit-box-shadow: 4px 4px 4px 4px #000000;
+box-shadow: 4px 4px 4px 4px #000000;
+padding:20px;
+margin-top:3%;
+margin-right:30%;
+margin-left:30%;
+}
+
+
+/*large devices eg desktop*/
+.button{
+width:100%;
+} }
+@media all and (min-width: 1024px) {
+
+header{
+height: 150px;
+
+}
+
+#ml{
+	display:none;
+}
+#ll{
+	visibility: visible;
+}
+
+.menu{
+-webkit-border-radius: 10px 10px 10px 10px;
+border-radius: 10px 10px 10px 10px;
+-webkit-box-shadow: 4px 4px 4px 4px #000000;
+box-shadow: 4px 4px 4px 4px #000000;
+
+padding:20px;
+margin-top:3%;
+margin-right:30%;
+margin-left:30%;
+}
+
+}

@@ -1,0 +1,70 @@
+
+#nPage{
+width: 40%; 
+float: right;
+margin-right:5%;
+
+}
+#pPage{
+width: 40%; 
+float: left;
+margin-left:5%;
+
+}
+
+/*small mobile devices*/
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) {
+.q{
+width: 100%; 
+clear:both;
+
+}
+.i{
+width: 100%; 
+clear:both;
+
+}
+
+#question{
+text-align: center;
+}
+
+}
+
+/*medium mobile devices eg desktop*/
+
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) {
+.q{
+width: 40%; 
+float: left;
+margin-top:10%;
+
+}
+.i{
+width: 100%; 
+}
+#question{
+font-weight:bold;
+}
+
+}
+
+
+
+/*large devices eg desktop*/
+@media all and (min-width: 768px) {
+
+.q{
+width: 40%; 
+float: left;
+margin-top:10%;
+
+}
+.i{
+width: 100%; 
+}
+#question{
+font-weight:bold;
+}
+
+}

@@ -1,0 +1,17 @@
+   <questionnaire type="all">
+    
+
+
+        <topic>  
+          <question num= "6">1:I feel that my life is on hold because of caring</question>
+          <question num= "7">2:My social life has suffered because of caring</question>
+          <question num= "8">3:I feel I have less choice about my future due to caring</question>
+          <question num= "9">4:I feel I have no control over my own life</question>
+          <question num= "10">5:Caring stops me doing what I want to do</question>
+          <question num= "16">6:I worry about going into debt</question>
+          <question num= "17">7:I feel satisfied with my financial situation</question>
+          <question num= "18">8:I am able to save for a rainy day</question>
+          <question num= "19">9:I worry about money</question>
+          <question num= "20">10There is enough money in our house to pay for the things we need</question>
+          </topic>
+    </questionnaire>

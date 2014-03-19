@@ -1,0 +1,69 @@
+   <questionnaire type="all">
+    
+        <topic>
+       		<question num= "1">I have a good level of emotional support</question>
+        	<question num= "2">My needs as a carer are considered by professionals</question>
+        	<question num= "3">I am happy with the professional support that is provided to me</question>
+        	<question num= "4">I feel able to get the help and information I need</question>
+        	<question num= "5">I have all the practical support I need</question>
+        </topic>  
+
+    
+        <topic>       
+       		<question num= "6">I feel that my life is on hold because of caring</question>
+        	<question num= "7">My social life has suffered because of caring</question>
+        	<question num= "8">I feel I have less choice about my future due to caring</question>
+        	<question num= "9">I feel I have no control over my own life</question>
+        	<question num= "10">Caring stops me doing what I want to do</question>
+         </topic>     
+    
+        <topic>        
+       		<question num= "11">I feel depressed due to caring</question>
+        	<question num= "12">I feel worn out as a result of caring</question>
+        	<question num= "13">I am mentally exhausted by caring</question>
+        	<question num= "14">I am physically exhausted by caring</question>
+        	<question num= "15">I feel stressed as a result of caring</question>
+         </topic>         
+      
+        <topic>       
+       		<question num= "16">I worry about going into debt</question>
+        	<question num= "17">I feel satisfied with my financial situation</question>
+        	<question num= "18">I am able to save for a rainy day</question>
+        	<question num= "19">I worry about money</question>
+        	<question num= "20">There is enough money in our house to pay for the things we need</question>
+        </topic>          
+    
+        <topic>
+       		<question num= "21">I have become a more tolerant person through my caring role</question>
+        	<question num= "22">Because of caring, I have learnt a lot about myself</question>
+        	<question num= "23">Because of caring, I feel that I have grown as a person</question>
+        	<question num= "24">I have experienced many positive things through caring</question>
+        	<question num= "25">I feel that I have become a better person by caring</question>
+        </topic>          
+
+    
+        <topic>        
+       		<question num= "26">I feel valued by the person I am looking after</question>
+        	<question num= "27">The person I look after respects me for what I do</question>
+        	<question num= "28">The person I look after makes me feel good about myself</question>
+        	<question num= "29">I get a lot from the person I am looking after</question>
+        	<question num= "30">I have a good relationship with the person I am caring for</question>
+        </topic>          
+    
+        <topic>        
+       		<question num= "31">I am satisfied with my performance as a carer</question>
+        	<question num= "32">I can take care of the needs of the person I am caring for</question>
+        	<question num= "33">I feel I am able to make the life of the person I am looking after better</question>
+        	<question num= "34">I can manage most situations with the person I care for</question>
+        	<question num= "35">I am able to deal with a difficult situation</question>
+         </topic>     
+
+    
+        <topic>
+       		<question num= "36">Caring is important to me</question>
+        	<question num= "37">I resent having to be a carer</question>
+        	<question num= "38">I feel frustrated with the person I am caring for</question>
+        	<question num= "39">I enjoy being a carer</question>
+        	<question num= "40">I am satisfied with my life as a carer</question>
+        </topic>          
+    </questionnaire>
